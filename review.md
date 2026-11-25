@@ -216,7 +216,7 @@ dog sling carrier small dog cat carrier bag puppy purse hands free pet sling cro
 
 </details>
 
-### ORL-B01-06 3 寸 T 型喉箍 4 
+### ORL-B01-06 3 寸 T 型喉箍 4
 
 [后台草稿 ↗](https://sellercentral.amazon.com/interactive/listing/workflow/edit-draft/product_details?itemType=band-hose-clamps&listingLanguageCode=en_US&draft_id=H3YNY9X579WYXFZ955VW&sku=ORL-B01-06)
 
