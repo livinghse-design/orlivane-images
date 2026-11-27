@@ -1,0 +1,93 @@
+{
+ "sku": "ORL-B27-07",
+ "brand": "Orlivane",
+ "manufacturer": "Orlivane",
+ "name": "Orlivane Embroidery Kit for Beginners, Bird and Flower Pattern with Hoop",
+ "highlights": "Pre-Printed Fabric, Colored Threads, Needles, 20 cm Imitation Bamboo Hoop, English Instructions, 5 Patterns",
+ "bullets": [
+  "PATTERN PRINTED ON THE FABRIC — The design is printed on the cloth, so you simply stitch along the lines. A relaxing project for beginners.",
+  "EVERYTHING IN ONE KIT — Pre-printed fabric (about 30 x 30 cm), colored embroidery threads, needles, a 20 cm imitation bamboo hoop and English instructions.",
+  "5 BIRD AND FLOWER DESIGNS — Choose from five patterns with songbirds, blossoms and butterflies.",
+  "DISPLAY IN THE HOOP — When you finish, keep the work in the hoop and hang it on the wall or stand it on a shelf.",
+  "A THOUGHTFUL CRAFT GIFT — A calm handmade project for friends, mothers and anyone who wants to try embroidery."
+ ],
+ "desc": "This Orlivane embroidery kit is made for beginners. The bird-and-flower design is pre-printed on cotton-linen fabric (about 30 x 30 cm), so you follow the print with the included colored threads and needles. The kit also includes a 20 cm imitation bamboo hoop and English instructions. Finished work can stay in the hoop for display. Five patterns available.",
+ "kw": "embroidery kit for beginners adults hand embroidery starter kit stamped cross stitch flower bird butterfly hoop craft kit gift needlework",
+ "price": 17.99,
+ "category_path": "Arts, Crafts & Sewing > Needlework > Embroidery > Embroidery Kits",
+ "item_type_suggest": "CRAFT_SUPPLY (search 'embroidery kit' in Seller Central to confirm)",
+ "external_product_id": "none (GTIN exemption approved 11/25; turn on 'This product does not have a product ID')",
+ "condition": "New",
+ "quantity": null,
+ "handling_days": null,
+ "country_of_origin": "China",
+ "batteries_required": false,
+ "batteries_included": false,
+ "dangerous_goods": "Not applicable",
+ "amazon_custom": false,
+ "images": [
+  "ORL-B27-07.MAIN.jpg",
+  "ORL-B27-07.PT02.jpg",
+  "ORL-B27-07.PT03.jpg",
+  "ORL-B27-07.PT04.jpg",
+  "ORL-B27-07.PT05.jpg",
+  "ORL-B27-07.PT06.jpg",
+  "ORL-B27-07.PT07.jpg"
+ ],
+ "image_base": "https://raw.githubusercontent.com/livinghse-design/orlivane-images/main/",
+ "target_audience": "Adults, beginners",
+ "material": "Cotton-linen fabric; embroidery thread; metal needles; imitation bamboo hoop (hoop material not confirmed by supplier)",
+ "color": "Multicolor",
+ "size": "Fabric about 30 x 30 cm; hoop 20 cm",
+ "number_of_items": 1,
+ "unit_count": "1 Kit",
+ "included_components": "Pre-printed fabric, colored embroidery threads, needles, 20 cm imitation bamboo hoop, English instructions",
+ "package": {
+  "length_cm": 22,
+  "width_cm": 22,
+  "height_cm": 1.5,
+  "weight_g": 130,
+  "note": "1688 page weight and size; supplier says the kit itself is 120 g"
+ },
+ "variation_theme": "Pattern (if not offered, use Style)",
+ "parent_sku": "ORL-B27-07",
+ "variants": [
+  {
+   "sku": "ORL-B27-07-P1",
+   "pattern": "Pattern 1 - Songbird and Blue Lavender",
+   "name": "Orlivane Embroidery Kit for Beginners, Bird and Flower Pattern with Hoop, Pattern 1 - Songbird and Blue Lavender",
+   "main_image": "ORL-B27-07.P1.MAIN.jpg",
+   "source": "1688 main8"
+  },
+  {
+   "sku": "ORL-B27-07-P2",
+   "pattern": "Pattern 2 - Bluebird and Red Blossoms",
+   "name": "Orlivane Embroidery Kit for Beginners, Bird and Flower Pattern with Hoop, Pattern 2 - Bluebird and Red Blossoms",
+   "main_image": "ORL-B27-07.P2.MAIN.jpg",
+   "source": "1688 main5"
+  },
+  {
+   "sku": "ORL-B27-07-P3",
+   "pattern": "Pattern 3 - Pink Plum Blossom and Bird",
+   "name": "Orlivane Embroidery Kit for Beginners, Bird and Flower Pattern with Hoop, Pattern 3 - Pink Plum Blossom and Bird",
+   "main_image": "ORL-B27-07.P3.MAIN.jpg",
+   "source": "1688 main6"
+  },
+  {
+   "sku": "ORL-B27-07-P4",
+   "pattern": "Pattern 4 - Blue Butterfly and Flowers",
+   "name": "Orlivane Embroidery Kit for Beginners, Bird and Flower Pattern with Hoop, Pattern 4 - Blue Butterfly and Flowers",
+   "main_image": "ORL-B27-07.P4.MAIN.jpg",
+   "source": "1688 main7"
+  },
+  {
+   "sku": "ORL-B27-07-P5",
+   "pattern": "Pattern 5 - White Flowers and Butterflies",
+   "name": "Orlivane Embroidery Kit for Beginners, Bird and Flower Pattern with Hoop, Pattern 5 - White Flowers and Butterflies",
+   "main_image": "ORL-B27-07.P5.MAIN.jpg",
+   "source": "1688 main9"
+  }
+ ],
+ "variant_images_note": "Per-pattern images are the supplier's single-pattern 1688 photos (main5-9), upscaled from 800px to 1600x1600; background flood-filled to pure 255 and checked. Parent MAIN (all 5 patterns) remains ORL-B27-07.MAIN.jpg.",
+ "compliance": "Do not write 苏绣/非遗/intangible heritage; no frame included."
+}
