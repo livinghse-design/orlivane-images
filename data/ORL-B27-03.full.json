@@ -61,77 +61,77 @@
  "variants": [
   {
    "sku": "ORL-B27-03-01",
-   "color": "January - Garnet Red",
+   "color": "January - Garnet",
    "name": "Orlivane Celtic Knot Birthstone Necklace for Women, Heart Pendant, January",
-   "main_image": null
+   "main_image": "ORL-B27-03.JAN.MAIN.jpg"
   },
   {
    "sku": "ORL-B27-03-02",
    "color": "February - Amethyst Purple",
    "name": "Orlivane Celtic Knot Birthstone Necklace for Women, Heart Pendant, February",
-   "main_image": null
+   "main_image": "ORL-B27-03.FEB.MAIN.jpg"
   },
   {
    "sku": "ORL-B27-03-03",
    "color": "March - Aquamarine Blue",
    "name": "Orlivane Celtic Knot Birthstone Necklace for Women, Heart Pendant, March",
-   "main_image": null
+   "main_image": "ORL-B27-03.MAR.MAIN.jpg"
   },
   {
    "sku": "ORL-B27-03-04",
    "color": "April - Clear White",
    "name": "Orlivane Celtic Knot Birthstone Necklace for Women, Heart Pendant, April",
-   "main_image": null
+   "main_image": "ORL-B27-03.APR.MAIN.jpg"
   },
   {
    "sku": "ORL-B27-03-05",
    "color": "May - Emerald Green",
    "name": "Orlivane Celtic Knot Birthstone Necklace for Women, Heart Pendant, May",
-   "main_image": null
+   "main_image": "ORL-B27-03.MAY.MAIN.jpg"
   },
   {
    "sku": "ORL-B27-03-06",
    "color": "June - Light Purple",
    "name": "Orlivane Celtic Knot Birthstone Necklace for Women, Heart Pendant, June",
-   "main_image": null
+   "main_image": "ORL-B27-03.JUN.MAIN.jpg"
   },
   {
    "sku": "ORL-B27-03-07",
    "color": "July - Ruby Red",
    "name": "Orlivane Celtic Knot Birthstone Necklace for Women, Heart Pendant, July",
-   "main_image": null
+   "main_image": "ORL-B27-03.JUL.MAIN.jpg"
   },
   {
    "sku": "ORL-B27-03-08",
    "color": "August - Peridot Green",
    "name": "Orlivane Celtic Knot Birthstone Necklace for Women, Heart Pendant, August",
-   "main_image": null
+   "main_image": "ORL-B27-03.AUG.MAIN.jpg"
   },
   {
    "sku": "ORL-B27-03-09",
    "color": "September - Sapphire Blue",
    "name": "Orlivane Celtic Knot Birthstone Necklace for Women, Heart Pendant, September",
-   "main_image": null
+   "main_image": "ORL-B27-03.SEP.MAIN.jpg"
   },
   {
    "sku": "ORL-B27-03-10",
    "color": "October - Pink",
    "name": "Orlivane Celtic Knot Birthstone Necklace for Women, Heart Pendant, October",
-   "main_image": null
+   "main_image": "ORL-B27-03.OCT.MAIN.jpg"
   },
   {
    "sku": "ORL-B27-03-11",
    "color": "November - Golden Yellow",
    "name": "Orlivane Celtic Knot Birthstone Necklace for Women, Heart Pendant, November",
-   "main_image": null
+   "main_image": "ORL-B27-03.NOV.MAIN.jpg"
   },
   {
    "sku": "ORL-B27-03-12",
    "color": "December - Sea Blue",
    "name": "Orlivane Celtic Knot Birthstone Necklace for Women, Heart Pendant, December",
-   "main_image": null
+   "main_image": "ORL-B27-03.DEC.MAIN.jpg"
   }
  ],
- "variant_images_note": "No separate white-background main image per color. ORL-B27-03.MAIN.jpg shows March (Aquamarine Blue); PT03 is the 12-color chart. Without per-color images, children can share the parent main image, or Amazon may ask for them.",
+ "variant_images_note": "Each color child has its own white-background main image ORL-B27-03.<MON>.MAIN.jpg, made from the supplier's 1688 SKU photo for that month (skuProps 颜色, 一月…十二月), 2000x2000, pendant+chain about 85% of frame height (chain runs off the top edge as in the source), background flood-filled to 255 and checked. Real per-color photos, no AI recoloring.",
  "compliance": "Do not write 925/sterling/hypoallergenic/nickel-free/real gemstone."
 }
